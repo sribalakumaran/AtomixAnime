@@ -3,10 +3,7 @@
 
 Here is an example video demonstrating the workflow:
 
-<video controls>
-  <source src="https://github.com/sribalakumaran/AtomixAnime/blob/main/VID_00007.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://github.com/sribalakumaran/AtomixAnime/blob/main/VID_00007.mp4)
 
    This workflow describes the process of converting a standard video into an animated video using Animatediff nodes and specialized models. By leveraging these advanced tools, users can transform each frame of the original video into an animated counterpart, achieving a seamless and visually appealing animated sequence. The workflow ensures high-quality animation while preserving the essence of the original footage.
    ## Nodes Used
